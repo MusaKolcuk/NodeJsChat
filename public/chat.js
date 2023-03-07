@@ -25,6 +25,11 @@ submitBtn.addEventListener('click', () => {
 
         message.value = "";
 
+        //Bildirim Sesi
+
+        var ses = new Audio("https://zilsesiindir.com/wp-content/uploads/2022/02/chord.mp3");
+        ses.play();
+
     })
 
     message.addEventListener("keypress", () => {
