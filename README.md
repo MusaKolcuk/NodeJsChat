@@ -9,6 +9,8 @@
 
 ### You can give yourself a nickname. ###
 
+### Notification sound when message arrives player ### 
+
 #### I wish you great messages :smile: ####
 
 #### See you later :wave: ####
